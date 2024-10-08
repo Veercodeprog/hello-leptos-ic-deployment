@@ -1,0 +1,10 @@
+/Users/veerpratap/Desktop/yral/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/libgloo_utils-7e84afbdff9577ff.rmeta: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs
+
+/Users/veerpratap/Desktop/yral/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/libgloo_utils-7e84afbdff9577ff.rlib: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs
+
+/Users/veerpratap/Desktop/yral/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/gloo_utils-7e84afbdff9577ff.d: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs
+
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs:

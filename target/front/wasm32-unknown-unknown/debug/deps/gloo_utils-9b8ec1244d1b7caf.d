@@ -1,0 +1,10 @@
+/Users/veerpratap/Desktop/yral/leptos-tutorial/target/front/wasm32-unknown-unknown/debug/deps/libgloo_utils-9b8ec1244d1b7caf.rmeta: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs
+
+/Users/veerpratap/Desktop/yral/leptos-tutorial/target/front/wasm32-unknown-unknown/debug/deps/libgloo_utils-9b8ec1244d1b7caf.rlib: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs
+
+/Users/veerpratap/Desktop/yral/leptos-tutorial/target/front/wasm32-unknown-unknown/debug/deps/gloo_utils-9b8ec1244d1b7caf.d: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs
+
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs:

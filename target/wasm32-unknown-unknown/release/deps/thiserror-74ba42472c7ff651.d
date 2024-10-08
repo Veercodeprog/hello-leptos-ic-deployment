@@ -1,0 +1,10 @@
+/Users/veerpratap/Desktop/yral/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/libthiserror-74ba42472c7ff651.rmeta: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/aserror.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/display.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/provide.rs
+
+/Users/veerpratap/Desktop/yral/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/libthiserror-74ba42472c7ff651.rlib: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/aserror.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/display.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/provide.rs
+
+/Users/veerpratap/Desktop/yral/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/thiserror-74ba42472c7ff651.d: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/aserror.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/display.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/provide.rs
+
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/lib.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/aserror.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/display.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.64/src/provide.rs:

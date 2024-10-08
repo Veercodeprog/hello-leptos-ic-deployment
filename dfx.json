@@ -1,0 +1,11 @@
+{
+  "canisters": {
+    "app": {
+      "type": "assets",
+      "source": ["target/release"],
+      "frontend": {
+        "entrypoint": "target/wasm32-unknown-unknown/release/leptos_tutorial.wasm"
+      }
+    }
+  }
+}
